@@ -1,0 +1,2 @@
+# respositoribaru
+membuat javascript
